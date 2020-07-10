@@ -47,6 +47,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "08d820ff-6a47-4211-b2a7-f9a2b6f4cfe0",
             "Value": {
                 "id": "10af662a-b8b8-499d-addb-907efaa28d69",
@@ -71,6 +72,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of 9c14ada... Made stick man
             "Key": "1048b9fc-676b-48f5-9316-fee096f91a65",
             "Value": {
                 "id": "7fbc89f1-b838-4599-83e8-f4c453f55899",
