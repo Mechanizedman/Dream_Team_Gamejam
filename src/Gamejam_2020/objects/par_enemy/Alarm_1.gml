@@ -1,3 +1,0 @@
-/// @description 
-
-alf = 0;

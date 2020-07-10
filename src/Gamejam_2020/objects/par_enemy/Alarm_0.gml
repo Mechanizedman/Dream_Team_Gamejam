@@ -1,4 +1,0 @@
-/// @description 
-
-canShoot = 1;
-
