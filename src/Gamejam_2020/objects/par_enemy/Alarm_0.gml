@@ -1,0 +1,4 @@
+/// @description 
+
+canShoot = 1;
+
