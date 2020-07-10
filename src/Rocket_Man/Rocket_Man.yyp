@@ -79,6 +79,22 @@
             }
         },
         {
+            "Key": "32a82664-fe09-4aa0-979e-17f228430672",
+            "Value": {
+                "id": "2a2d777a-c9cc-46b7-bb10-cda38c44570a",
+                "resourcePath": "views\\32a82664-fe09-4aa0-979e-17f228430672.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "36b5b349-14c1-40a5-8d5e-d592e1013265",
+            "Value": {
+                "id": "9490ed32-e9c6-4db3-bab4-32d61938fb72",
+                "resourcePath": "views\\36b5b349-14c1-40a5-8d5e-d592e1013265.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "4160ff55-814e-4c6b-8eff-44341bac1eca",
             "Value": {
                 "id": "e846e61e-aac6-408e-b368-7899d8b44f53",
@@ -151,6 +167,22 @@
             }
         },
         {
+            "Key": "b01abc4e-6f0b-4baa-be26-b0058e5cf5aa",
+            "Value": {
+                "id": "6a96bce0-905e-4fd7-b590-9034bfe7d2bc",
+                "resourcePath": "views\\b01abc4e-6f0b-4baa-be26-b0058e5cf5aa.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b067e957-f808-4768-8cf3-4ad615fbcd12",
+            "Value": {
+                "id": "4949b23f-51ee-41a2-bb04-36a1b4c90d1d",
+                "resourcePath": "views\\b067e957-f808-4768-8cf3-4ad615fbcd12.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "0b99d4ea-310b-4ee7-ab9a-ac59bc73b18d",
@@ -178,7 +210,7 @@
             "Key": "d6af9650-adbc-440f-b6c2-50fed94d1605",
             "Value": {
                 "id": "29134580-ea72-4a97-856f-a2990d0d43a4",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_level\\rm_level.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -196,6 +228,14 @@
                 "id": "191299c9-255e-4b77-98a7-e9b309ca0e4b",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f8217edb-361a-469e-a657-f0fd37c5652b",
+            "Value": {
+                "id": "eae12a02-d089-46bc-a2c4-bfa3dc8ce2c8",
+                "resourcePath": "objects\\obj_ship\\obj_ship.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
