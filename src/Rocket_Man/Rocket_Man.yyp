@@ -247,6 +247,22 @@
             }
         },
         {
+            "Key": "b78dc05d-5d37-44ce-a243-9f327bbcdd36",
+            "Value": {
+                "id": "02baa03f-340e-475c-beaf-51af56967b3b",
+                "resourcePath": "objects\\obj_missles\\obj_missles.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c2bfc0c6-c7a6-4e68-93c6-86162885937f",
+            "Value": {
+                "id": "fdc039a4-8163-4fa9-af82-9b3d3d2c6a7a",
+                "resourcePath": "sprites\\spr_\\spr_.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "0b99d4ea-310b-4ee7-ab9a-ac59bc73b18d",

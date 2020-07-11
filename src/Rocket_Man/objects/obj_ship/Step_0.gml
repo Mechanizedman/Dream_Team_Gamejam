@@ -12,7 +12,7 @@ if (image_angle > faceing){
 	
 }
 else if (image_angle < faceing){
-	image_angle += ship_speed;
+	image_angle += ship_speed-2;
 }
 
 
