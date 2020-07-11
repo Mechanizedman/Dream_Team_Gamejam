@@ -2,13 +2,13 @@
 
 // ---------- Move to the right
 //var xs = camera_get_view_speed_x(view_camera[0]);
-if (hull != 0){
+if (global.hull != 0){
 	camera_set_view_speed(view_camera[0], 200, 0);
 	hspeed = 5;
 }
 
 if (image_angle > faceing){
-    image_angle -= ship_speed;
+    image_angle -= ship_speed+2;
 	
 }
 else if (image_angle < faceing){
