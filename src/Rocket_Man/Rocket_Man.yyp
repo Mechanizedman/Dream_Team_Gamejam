@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "6177ebed-6a93-4d6b-a5d2-6e0ceefcc3b8",
+            "Value": {
+                "id": "3be6c17c-afc7-4953-bc62-24d7ec457595",
+                "resourcePath": "scripts\\scr_\\scr_.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "666ab174-4fdd-457c-9269-346b934e6166",
             "Value": {
                 "id": "921c91cf-f6d7-4c55-9582-dff2ea940c4c",
@@ -344,7 +352,7 @@
         }
     ],
     "script_order": [
-        
+        "6177ebed-6a93-4d6b-a5d2-6e0ceefcc3b8"
     ],
     "tutorial": ""
 }
