@@ -1,21 +1,8 @@
-/// @description 
+/// @description follow the player/target
 
-// Update Destination ...
-if (instance_exists(follow)) {
-		xTo = follow.x;
-		yTo = follow.y;
+if(instance_exists(target)){
+	global.cameraX = target.x -(global.cameraWidth/3);
+	global.cameraY = target.y -(global.cameraWidth/2);
 }
-// Update Object Pos ..
-x += (xTo - x) /16;
-y += (yTo - y-100) /8;
 
-x = clamp (x, view_w_half+buff, room_width-view_w_half-buff);
-y = clamp (y, view_h_half+buff, room_height-view_h_half-buff);
-
-// ScreenShaker ..
-x += random_range(-shake_remain, shake_remain);
-y += random_range(-shake_remain, shake_remain);
-shake_remain = max (0, shake_remain-((1/shake_length)*shake_magnitude));
-
-// Update Cam View..
-camera_set_view_pos(cam, x-view_w_half, y-view_h_half);
+camera_set_view_pos(view_camera[0],global.cameraX, 0);

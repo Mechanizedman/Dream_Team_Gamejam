@@ -1,34 +1,44 @@
 {
-    "id": "5c5cb1c7-30c0-4ecd-ac09-812327655342",
+    "id": "a75d7418-e214-4f92-b330-36b5c032f8df",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_camera",
     "eventList": [
         {
-            "id": "0df7a06a-ebb4-4dfd-9752-7d3bb6e657fe",
+            "id": "67226fe2-010c-4a34-b6b1-5538452c4307",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 7,
+            "m_owner": "a75d7418-e214-4f92-b330-36b5c032f8df"
+        },
+        {
+            "id": "62780a49-e7b1-4ee6-8822-03778c1efa6a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "a75d7418-e214-4f92-b330-36b5c032f8df"
+        },
+        {
+            "id": "6bdd950a-927d-4eee-b1b3-fcd0804f994a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "5c5cb1c7-30c0-4ecd-ac09-812327655342"
-        },
-        {
-            "id": "8a33dd62-4a08-4768-aef3-f06c69ae9a35",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "5c5cb1c7-30c0-4ecd-ac09-812327655342"
+            "m_owner": "a75d7418-e214-4f92-b330-36b5c032f8df"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": false,
+    "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
