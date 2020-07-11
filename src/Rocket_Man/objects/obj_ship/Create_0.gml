@@ -1,6 +1,6 @@
 /// @description Vars / Stats ..
 
-global.hull = 1000; 
+//lives = 1; 
 faceing = 2;
 ship_speed = 5;
 

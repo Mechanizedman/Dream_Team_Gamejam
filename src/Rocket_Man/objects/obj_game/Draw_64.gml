@@ -2,7 +2,7 @@
 switch (room){
 	case rm_level:
 		
-		draw_text(100,100,"Hull: "+ string(global.hull));
+		draw_text(100,100,"Hull: "+ string(lives));
 		
 	    break; 
 	case rm_start:

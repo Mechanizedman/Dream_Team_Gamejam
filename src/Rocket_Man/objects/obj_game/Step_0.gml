@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description 
+//lets the player continue via left click
 if (mouse_check_button_pressed(mb_left)){
 	switch(room){
 	    case rm_start:
@@ -11,7 +11,7 @@ if (mouse_check_button_pressed(mb_left)){
 	        break;
     }
 }
-//win conditions
+/*win conditions
 if (room == rm_level){
 	if score >= 1{
 		room_goto(rm_win);
@@ -22,3 +22,4 @@ if (room == rm_level){
 		//audio_play_sound(snd_lose, 1, false)
     }
 }
+*/

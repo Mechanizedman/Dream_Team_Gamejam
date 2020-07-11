@@ -2,8 +2,8 @@
 if (sheild_check = true){
 	with(obj_collistions_sheild) 
 		instance_destroy();
-	
 }
 else {
-global.hull = -1000
+lives = 1;
 }
+//

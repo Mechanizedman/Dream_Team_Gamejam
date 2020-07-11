@@ -2,16 +2,13 @@
 
 //Keep Track of health and lives
 
-if(global.hull = 0){
+if(lives = 0){
 	instance_destroy();
 	
 }
 
-
-
-
 // ---------- Move to the right
-if (global.hull != 0){
+if (lives != 0){
 	hspeed = 5;
 }
 //ship falling
