@@ -127,6 +127,22 @@
             }
         },
         {
+            "Key": "54a62abc-4149-4fd2-8c8c-cb4150cb49e7",
+            "Value": {
+                "id": "cc994b78-1e12-4513-9e1a-976d6a78a5b8",
+                "resourcePath": "views\\54a62abc-4149-4fd2-8c8c-cb4150cb49e7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5595b07f-4a2e-42eb-b532-d61be4d2ee46",
+            "Value": {
+                "id": "1bcc48ff-90ec-4f88-ad7f-69571c6f1d1a",
+                "resourcePath": "tilesets\\tileset_enviroment\\tileset_enviroment.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "56277f4b-c8ab-4f9d-bfe7-fdeea16bacb6",
             "Value": {
                 "id": "24d21ab1-c547-4397-83b6-5b855dce9533",
@@ -295,6 +311,14 @@
             }
         },
         {
+            "Key": "90dff83b-7b4e-4afc-aeb7-e240baf26736",
+            "Value": {
+                "id": "bc3ba16d-626c-41ff-a0cd-685a8e247207",
+                "resourcePath": "objects\\obj_collistions_sheild\\obj_collistions_sheild.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "966f713d-76d9-413c-9382-99a0f3d27139",
             "Value": {
                 "id": "da68ba7e-4c91-42e5-8ba1-22a8ca6008cb",
@@ -315,6 +339,14 @@
             "Value": {
                 "id": "bfb78a56-adf8-4011-936b-278a703fdec3",
                 "resourcePath": "sprites\\spr_ship_s_e\\spr_ship_s_e.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a40ce868-64f0-421a-8ed4-16fdf834e9a2",
+            "Value": {
+                "id": "8e9f0133-a900-4eda-8ccd-e773ebe23bc2",
+                "resourcePath": "sprites\\TILE_SHEET_basic_rough\\TILE_SHEET_basic_rough.yy",
                 "resourceType": "GMSprite"
             }
         },
