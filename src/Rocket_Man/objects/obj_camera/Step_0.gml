@@ -1,7 +1,7 @@
 /// @description follow the player/target
 
 if(instance_exists(target)){
-	global.cameraX = target.x -(global.cameraWidth/8);
+	global.cameraX = target.x -(global.cameraWidth/6);
 	global.cameraY = target.y -(global.cameraWidth/2);
 }
 
