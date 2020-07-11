@@ -8,11 +8,11 @@ if (global.hull != 0){
 }
 
 if (image_angle > faceing){
-    image_angle -= ship_speed+2;
+    image_angle -= ship_speed + 2;
 	
 }
 else if (image_angle < faceing){
-	image_angle += ship_speed-2;
+	image_angle += ship_speed - 2;
 }
 
 
@@ -26,5 +26,5 @@ if(mouse_check_button(mb_left)){
 	faceing = 1;
 	vspeed = -3;
 	image_speed = 0.5;
-	alarm[0] = 20;
+	alarm[0] = 60;
 	}
